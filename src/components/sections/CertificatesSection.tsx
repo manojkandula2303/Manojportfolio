@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Dialog, DialogTrigger, DialogContent, DialogHeader } from "@/components/ui/dialog";
 import tcsIonCert from "@/assets/tcs-ion.png";
+import pythonFoundationCert from "@/assets/Python Foundation Certification.png"
 import simpliLearnCert from "@/assets/simplilearn-frontend.jpg";
 import infosysJavaCert from "@/assets/infosys-java.jpg";
 import greatLearningHtmlCert from "@/assets/great-learning-html.jpg";
