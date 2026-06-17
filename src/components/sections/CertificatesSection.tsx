@@ -19,6 +19,18 @@ const certificatesData = [
     details: "Earned the Kaggle Python Certificate in 2026, demonstrating advanced Python proficiency, data structures, scripting, and control flow for data science and web applications."
   },
   {
+  id: "Python Foundation Certification",
+  title: "Infosys Springboard Python Foundation Certification",
+  image: pythonFoundationCert,
+  details: "Earned the Infosys Springboard Python Foundation Certification by successfully clearing the assessment and demonstrating proficiency in core Python programming concepts, problem-solving, and application development. Issued on June 17, 2026."
+  },
+  {
+    id: "infosys-java",
+    title: "Java Foundation Certification",
+    image: infosysJavaCert,
+    details: "Successfully completed Java Foundation Certification from Infosys Springboard. Issued on June 1, 2024 by Infosys Limited under the leadership of Thirumala Arohi, Executive Vice President and Global Head of Education, Training & Assessment (ETA)."
+  },
+  {
     id: "ai-engineer-cert",
     title: "AI Engineer Skill Certification – One Roadmap",
     image: roadmapCertificate,
@@ -47,12 +59,6 @@ const certificatesData = [
     title: "Front End Development - HTML",
     image: greatLearningHtmlCert,
     details: "Successfully completed the free online course on Front End Development - HTML from Great Learning Academy. Completed in July 2024, demonstrating proficiency in HTML fundamentals and front-end development concepts."
-  },
-  {
-    id: "infosys-java",
-    title: "Java Foundation Certification",
-    image: infosysJavaCert,
-    details: "Successfully completed Java Foundation Certification from Infosys Springboard. Issued on June 1, 2024 by Infosys Limited under the leadership of Thirumala Arohi, Executive Vice President and Global Head of Education, Training & Assessment (ETA)."
   },
   {
     id: "simplilearn-frontend",
