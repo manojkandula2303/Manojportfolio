@@ -9,7 +9,7 @@ import weatherImage from "@/assets/windowview.png";
 import dsaImage from "@/assets/DSA.png";
 import platefinderImage from "@/assets/platefinder.png";
 import biogasImage from "@/assets/biogas.png";
-import chatImage from "@/assets/chat.png";
+import chatImage from "@/assets/Chat.png";
 import expensesImage from "@/assets/expenses.png";
 
 interface Project {
